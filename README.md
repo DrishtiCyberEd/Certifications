@@ -1,6 +1,6 @@
 <!-- Header Banner (Vice City Neon Sunset) -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d8d,100:ff9e2c&height=200&section=header&text=Credentials%20%26%20Clearances&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Certifications Header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1500&color=00F0FF&center=true&vCenter=true&width=720&height=65&lines=CREDENTIALS+%26+CLEARANCES;VICE+CITY+CLEARANCE+VAULT" alt="Certifications Header" />
 </p>
 
 <h3 align="center">🌴 VICE CITY CLEARANCE VAULT // Verified Certificates, Hackathon Wins & SOC Training 🌴</h3>
@@ -64,5 +64,6 @@ All certificates stored in this vault are authentic credentials issued upon comp
 
 <!-- Footer Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9e2c,100:ff4d8d&height=120&section=footer" alt="footer"/>
+  <img src="https://img.shields.io/badge/VICE_CITY_VAULT-VERIFIED-00f0ff?style=for-the-badge&labelColor=120428" alt="Vault Verified" />
+  <img src="https://img.shields.io/badge/DRISHTI-CYBER_OPERATIVE-ff4d8d?style=for-the-badge&labelColor=120428" alt="Drishti" />
 </p>
